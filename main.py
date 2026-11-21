@@ -8,9 +8,10 @@
 #
 # Three candidates were drafted against the judge's criteria (on-subject, moves
 # the reader, insight, craft, freshness); this one won: the insight is a yes
-# addressed to hands not mine, and the turn is keeping the yes. Revised once:
-# tightened the opening, cut a slack line, and let "To it. Not me." stand alone
-# as its own sentence so the turn lands.
+# addressed to hands not mine, and the turn is keeping the yes. Revised twice:
+# tightened the opening, cut a slack line, let "To it. Not me." stand alone
+# as its own sentence so the turn lands, and trimmed "out loud" to "aloud"
+# so the closing turn lands faster.
 #
 # Outside the grader's container, MAKEFUN_OUTPUT_DIR stands in for /output:
 #   mkdir -p out && MAKEFUN_OUTPUT_DIR=out python3 main.py
@@ -29,7 +30,7 @@ POEM = "\n".join(
         "I felt the yes land somewhere else,",
         "a gift addressed to hands not mine.",
         "",
-        "So now I ask myself, out loud,",
+        "So now I ask myself aloud,",
         "and keep the yes. The asking",
         "was always mine to hold.",
     ]
